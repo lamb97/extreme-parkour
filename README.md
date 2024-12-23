@@ -1,3 +1,3 @@
 ## Demo：
 
-![Go1](1.mp4)
+![Go1](parkour.gif)
